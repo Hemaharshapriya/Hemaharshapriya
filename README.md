@@ -8,7 +8,7 @@ I am Hema HarshaPriya, you can call me Hema.
 📫 How to reach me: you can DM via email: Hemaharshapriya.chippala@gmail.com
 
 By the the best
-⚡ Fun fact: you can view my profile here
+⚡ Fun fact: you can view my profile here https://hemaharshapriya.github.io/myProfile/
 <!--
 **Hemaharshapriya/Hemaharshapriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
